@@ -1,0 +1,11 @@
+.title-form{
+    display: inline-block;
+}
+
+.title-input-disabled{
+    border: none;
+    background-color: transparent;
+
+}
+.title-input-enabled{
+}

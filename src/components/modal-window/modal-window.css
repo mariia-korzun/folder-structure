@@ -1,0 +1,7 @@
+.modal-window {
+    position: absolute;
+    width: 150px;
+    height: 100px;
+    background-color: rgb(201, 197, 197);
+    border: 1px solid black;
+}
